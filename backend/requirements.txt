@@ -6,4 +6,3 @@ paddleocr
 easyocr
 Pillow
 python-multipart
-libgl1
